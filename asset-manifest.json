@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/hangman/static/css/main.85f917cf.chunk.css",
+    "main.js": "/hangman/static/js/main.97277931.chunk.js",
+    "main.js.map": "/hangman/static/js/main.97277931.chunk.js.map",
+    "runtime-main.js": "/hangman/static/js/runtime-main.4f9ac029.js",
+    "runtime-main.js.map": "/hangman/static/js/runtime-main.4f9ac029.js.map",
+    "static/js/2.b964f4dd.chunk.js": "/hangman/static/js/2.b964f4dd.chunk.js",
+    "static/js/2.b964f4dd.chunk.js.map": "/hangman/static/js/2.b964f4dd.chunk.js.map",
+    "index.html": "/hangman/index.html",
+    "precache-manifest.561881e6e2eb68aad59f8ef5329fbec1.js": "/hangman/precache-manifest.561881e6e2eb68aad59f8ef5329fbec1.js",
+    "service-worker.js": "/hangman/service-worker.js",
+    "static/css/main.85f917cf.chunk.css.map": "/hangman/static/css/main.85f917cf.chunk.css.map",
+    "static/js/2.b964f4dd.chunk.js.LICENSE.txt": "/hangman/static/js/2.b964f4dd.chunk.js.LICENSE.txt",
+    "static/media/3.png": "/hangman/static/media/3.90488b1c.png",
+    "static/media/4.png": "/hangman/static/media/4.214592d2.png",
+    "static/media/5.png": "/hangman/static/media/5.11b07d1b.png",
+    "static/media/6.png": "/hangman/static/media/6.07612ece.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f9ac029.js",
+    "static/js/2.b964f4dd.chunk.js",
+    "static/css/main.85f917cf.chunk.css",
+    "static/js/main.97277931.chunk.js"
+  ]
+}
